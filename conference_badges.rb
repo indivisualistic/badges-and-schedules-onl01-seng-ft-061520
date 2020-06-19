@@ -22,6 +22,3 @@ def printer(speakers)
         puts value
     end
 end
-
-
-  
